@@ -7,5 +7,7 @@ https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies
 - Running the paragraph generation cells requires a Paid Google API Key for the paragraph generation to run (since google has removed the all free tokens).
 
 To run the streamlit version of the application, do the following in your terminal:
-1. pip install streamlit
-2. streamlit run app.py
+```
+pip install streamlit
+streamlit run app.py
+```
